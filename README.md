@@ -19,7 +19,7 @@ This database ( file: `example.db` ) is a database for a fictional company: "Edu
 
 ## Analysing data using pandas:  
 Pandas is a python library which is used for data cleaning.  
-I have used the following to demonstrate my learnings in python's pandas ( file: `folder.py` )so far:
+I have done the following in python's pandas ( file: `folder.py` ):
 1. print(df.head())
 2. print(df.describe())
 3. print(df.sample(5))
