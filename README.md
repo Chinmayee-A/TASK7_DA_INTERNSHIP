@@ -35,7 +35,8 @@ I have created the following in python's matplotlib ( file: `folder.py` ) :
 1. Line graph
 
 
-![Figure_1](https://github.com/user-attachments/assets/7ae3fc0e-26fd-4229-ab58-55e2420aa755)
+![Figure_1](https://github.com/user-attachments/assets/7ae3fc0e-26fd-4229-ab58-55e2420aa755)  
+
 2. Bar graph  
 
 ![Figure_2](https://github.com/user-attachments/assets/9ce29bbd-d341-44aa-a7e7-a1ef237a75d6)
