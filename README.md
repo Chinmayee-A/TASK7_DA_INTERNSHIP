@@ -8,13 +8,13 @@ In `main.py` I have started creating the database using sqlite. __*SQLite*__ is 
 
 ## Understanding the database:  
 This database ( file: `example.db` ) is a database for a fictional company: "Eduwance". It is a e-learning service provider with only one course: DATA ANALYTICS
--- 7 Columns Created: 
-      1. id, name, age, email, username, phone number, marks
-      2. id = primary key
-      3. marks = marks obtained in the course end assessment (/100)  
+-- 7 Columns Created:  
+1. id, name, age, email, username, phone number, marks
+2. id = primary key
+3. marks = marks obtained in the course end assessment (/100)  
       
--- 5 rows created
-      1. The id is not provided as there will be auto increment. Hence only the rest 6 columns data is filled.
+-- 5 rows created  
+1. The id is not provided as there will be auto increment. Hence only the rest 6 columns data is filled.
 
 
 ## Analysing data using pandas:  
