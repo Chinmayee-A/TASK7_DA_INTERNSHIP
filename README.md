@@ -1,0 +1,2 @@
+# TASK7_DA_INTERNSHIP
+This Repository is the solved part of TASK 7 of DATA ANALYSIS INTERNSHIP at ELEVATE LABS, BENGALURU
